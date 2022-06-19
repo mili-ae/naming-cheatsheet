@@ -4,10 +4,10 @@
   </a>
 </p>
 
-# Naming cheatshit
+# Naming cheatshitwefwef
 
-- [Naming cheatshit](#naming-cheatshit)
-  - [English langesf](#english-langesf)
+- [Naming cheatshitwefwef](#naming-cheatshitwefwef)
+  - [English langesfe](#english-langesfe)
   - [Naming convent](#naming-convent)
   - [S-I-D](#s-i-d)
   - [Avoid contractions](#avoid-contractions)
