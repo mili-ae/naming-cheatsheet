@@ -7,7 +7,7 @@
 # Naming cheatshit
 
 - [Naming cheatshit](#naming-cheatshit)
-  - [English lang](#english-lang)
+  - [English langesf](#english-langesf)
   - [Naming convent](#naming-convent)
   - [S-I-D](#s-i-d)
   - [Avoid contractions](#avoid-contractions)
@@ -39,7 +39,7 @@ Naming things is hard. This sheet attempts to make it easier.
 
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
-## English lang
+## English langesfe
 
 Use English language when naming your variables and functions.
 
