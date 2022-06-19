@@ -4,20 +4,34 @@
   </a>
 </p>
 
-# Naming cheatsheet
+# Naming cheatsheeeeteeeeee
 
-- [English language](#english-language)
-- [Naming convention](#naming-convention)
-- [S-I-D](#s-i-d)
-- [Avoid contractions](#avoid-contractions)
-- [Avoid context duplication](#avoid-context-duplication)
-- [Reflect the expected result](#reflect-the-expected-result)
+- [Naming cheatsheeeeteeeeee](#naming-cheatsheeeeteeeeee)
+  - [English language](#english-language)
+  - [Naming convention](#naming-convention)
+  - [S-I-D](#s-i-d)
+  - [Avoid contractions](#avoid-contractions)
+  - [Avoid context duplication](#avoid-context-duplication)
+  - [Reflect the expected result](#reflect-the-expected-result)
 - [Naming functions](#naming-functions)
-  - [A/HC/LC pattern](#ahclc-pattern)
-    - [Actions](#actions)
-    - [Context](#context)
-    - [Prefixes](#prefixes)
-- [Singular and Plurals](#singular-and-plurals)
+  - [A/HC/LC Pattern](#ahclc-pattern)
+  - [Actions](#actions)
+    - [`get`](#get)
+    - [`set`](#set)
+    - [`reset`](#reset)
+    - [`fetch`](#fetch)
+    - [`remove`](#remove)
+    - [`delete`](#delete)
+    - [`compose`](#compose)
+    - [`handle`](#handle)
+  - [Context](#context)
+  - [Prefixes](#prefixes)
+    - [`is`](#is)
+    - [`has`](#has)
+    - [`should`](#should)
+    - [`min`/`max`](#minmax)
+    - [`prev`/`next`](#prevnext)
+  - [Singular and Plurals](#singular-and-plurals)
 
 ---
 
