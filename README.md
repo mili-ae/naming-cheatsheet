@@ -4,11 +4,84 @@
   </a>
 </p>
 
-# Naming cheatsheeeeteeeeee
+<<<<<<< HEAD
+# Naming cheatshit
 
-- [Naming cheatsheeeeteeeeee](#naming-cheatsheeeeteeeeee)
-  - [English langurrrasdffsdge](#english-langurrrasdffsdge)
-  - [Naming conventifasfasasffasfasfasfqwrgon](#naming-conventifasfasasffasfasfasfqwrgon)
+- [Naming cheatshit](#naming-cheatshit)
+- [- Singular and Plurals](#--singular-and-plurals)
+- [Naming cheatshit](#naming-cheatshit-1)
+- [## English lang](#-english-lang)
+  - [English lang](#english-lang)
+- [## Naming convent](#-naming-convent)
+  - [Naming convent](#naming-convent)
+  - [S-I-D](#s-i-d)
+  - [Avoid contractions](#avoid-contractions)
+  - [Avoid context duplication](#avoid-context-duplication)
+  - [Reflect the expected result](#reflect-the-expected-result)
+- [Naming functions](#naming-functions)
+  - [A/HC/LC Pattern](#ahclc-pattern)
+  - [Actions](#actions)
+    - [`get`](#get)
+    - [`set`](#set)
+    - [`reset`](#reset)
+    - [`fetch`](#fetch)
+    - [`remove`](#remove)
+    - [`delete`](#delete)
+    - [`compose`](#compose)
+    - [`handle`](#handle)
+  - [Context](#context)
+  - [Prefixes](#prefixes)
+    - [`is`](#is)
+    - [`has`](#has)
+    - [`should`](#should)
+    - [`min`/`max`](#minmax)
+    - [`prev`/`next`](#prevnext)
+  - [Singular and Plurals](#singular-and-plurals)
+=======
+# Naming cheatshit
+
+- [Naming cheatshit](#naming-cheatshit)
+- [- Singular and Plurals](#--singular-and-plurals)
+- [Naming cheatshit](#naming-cheatshit-1)
+- [## English lang](#-english-lang)
+  - [English lang](#english-lang)
+- [## Naming convent](#-naming-convent)
+  - [Naming convent](#naming-convent)
+  - [S-I-D](#s-i-d)
+  - [Avoid contractions](#avoid-contractions)
+  - [Avoid context duplication](#avoid-context-duplication)
+  - [Reflect the expected result](#reflect-the-expected-result)
+- [Naming functions](#naming-functions)
+  - [A/HC/LC Pattern](#ahclc-pattern)
+  - [Actions](#actions)
+    - [`get`](#get)
+    - [`set`](#set)
+    - [`reset`](#reset)
+    - [`fetch`](#fetch)
+    - [`remove`](#remove)
+    - [`delete`](#delete)
+    - [`compose`](#compose)
+    - [`handle`](#handle)
+  - [Context](#context)
+  - [Prefixes](#prefixes)
+    - [`is`](#is)
+    - [`has`](#has)
+    - [`should`](#should)
+    - [`min`/`max`](#minmax)
+    - [`prev`/`next`](#prevnext)
+  - [Singular and Plurals](#singular-and-plurals)
+>>>>>>> branch1
+  - [S-I-D](#s-i-d)
+  - [Avoid contractions](#avoid-contractions)
+  - [Avoid context duplication](#avoid-context-duplication)
+  - [Reflect the expected result](#reflect-the-expected-result)
+- [Naming cheatshit](#naming-cheatshit)
+- [- Singular and Plurals](#--singular-and-plurals)
+- [Naming cheatshit](#naming-cheatshit-1)
+- [## English lang](#-english-lang)
+  - [English lang](#english-lang)
+- [## Naming convent](#-naming-convent)
+  - [Naming convent](#naming-convent)
   - [S-I-D](#s-i-d)
   - [Avoid contractions](#avoid-contractions)
   - [Avoid context duplication](#avoid-context-duplication)
@@ -39,7 +112,11 @@ Naming things is hard. This sheet attempts to make it easier.
 
 Although these suggestions can be applied to any programming language, I will use JavaScript to illustrate them in practice.
 
-## English langurrrasdffsdge
+<<<<<<< HEAD
+## English lang
+=======
+## English lang
+>>>>>>> branch1
 
 Use English language when naming your variables and functions.
 
@@ -55,7 +132,11 @@ const friends = ['Kate', 'John']
 
 > Like it or not, English is the dominant language in programming: the syntax of all programming languages is written in English, as well as countless documentations and educational materials. By writing your code in English you dramatically increase its cohesiveness.
 
-## Naming conventifasfasasffasfasfasfqwrgon
+<<<<<<< HEAD
+## Naming convent
+=======
+## Naming convent
+>>>>>>> branch1
 
 Pick **one** naming convention and follow it. It may be `camelCase`, `PascalCase`, `snake_case`, or anything else, as long as it remains consistent. Many programming languages have their own traditions regarding naming conventions; check the documentation for your language or study some popular repositories on Github!
 
